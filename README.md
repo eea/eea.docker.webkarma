@@ -1,6 +1,14 @@
 ## EEA Web-Karma docker setup
 
-This repo contains the Dockerfile for running [Web-Karma](http://usc-isi-i2.github.io/karma/).
+This repo contains the Dockerfile for running Web-Karma server.
+
+### What is Web-Karma
+
+Web-Karma (aka Karma) is an information integration tool that enables users to quickly and easily integrate data from a variety of data sources 
+including relational databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs. Users integrate information by modeling 
+it according to an ontology (RDFS/OWL) of their choice using a graphical user interface that automates much of the process. 
+
+More info and screencasts on [Web-Karma official site](http://usc-isi-i2.github.io/karma/)
 
 ### Prerequisites
 
