@@ -1,6 +1,6 @@
 ## EEA Web-Karma docker setup
 
-This repo contains the Dockerfile for running Web-Karma server.
+This repo contains the Dockerfile for running Web-Karma server on JDK 7. 
 
 ### What is Web-Karma
 
